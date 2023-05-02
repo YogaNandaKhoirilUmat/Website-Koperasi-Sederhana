@@ -1,0 +1,3 @@
+Untuk Login username dan password:
+user = 12345
+admin = 12345
